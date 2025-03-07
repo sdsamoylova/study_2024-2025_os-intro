@@ -1,3 +1,7 @@
+## [1.2.3](https://github.com/sdsamoylova/study_2024-2025_os-intro/compare/1.0.0...1.2.3) (2025-03-07)
+
+
+
 # 1.0.0 (2025-03-07)
 
 
